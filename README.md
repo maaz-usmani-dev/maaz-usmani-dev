@@ -1,6 +1,6 @@
 # Hi, I'm Maaz 👋
 
-I'm a passionate Web Developer and Content Creator, focused on building high-quality web applications, e-commerce stores, and sharing knowledge through digital content.
+I'm a passionate Web Developer focused on building high-quality web applications, e-commerce stores, and sharing knowledge through digital content.
 
 ## 🔹 About Me
 - 🌐 Specializing in **Frontend Development** (React, Redux, JavaScript) and **Shopify Theme Development**
@@ -10,7 +10,7 @@ I'm a passionate Web Developer and Content Creator, focused on building high-qua
 
 ## 🔹 Technical Skills
 - **Languages:** HTML5, CSS3, JavaScript (ES6+), C++, Python (Basics), Liquid
-- **Frameworks/Libraries:** React, Redux Toolkit, Node.js (Basics), Express.js (Basics)
+- **Frameworks/Libraries:** React, Redux Toolkit, Node.js (Basics), Express.js (Basics), TailwindCSS
 - **E-commerce:** Shopify Theme Development, Shopify CLI, Shopify APIs
 - **Tools & Platforms:** Git, GitHub, VS Code, Figma, Firebase
 - **Database:** MongoDB (Basics), MySQL (Basics)
@@ -21,7 +21,7 @@ I'm a passionate Web Developer and Content Creator, focused on building high-qua
 - Deliver custom, high-performance Shopify stores
 
 ## 🔹 Let's Connect
-- [LinkedIn]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/maaz--usmani/))
+- [LinkedIn](https://www.linkedin.com/in/maaz--usmani/)
 
 ---
 
