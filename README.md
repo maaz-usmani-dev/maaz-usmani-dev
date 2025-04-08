@@ -10,7 +10,7 @@ I'm a passionate Web Developer focused on building high-quality web applications
 
 ## 🔹 Technical Skills
 - **Languages:** HTML5, CSS3, JavaScript (ES6+), C++, Python (Basics), Liquid
-- **Frameworks/Libraries:** React, Redux Toolkit, Node.js (Basics), Express.js (Basics), TailwindCSS
+- **Frameworks/Libraries:** React, Redux Toolkit, Node.js (Basics), Express.js (Basics), TailwindCSS, GSAP
 - **E-commerce:** Shopify Theme Development, Shopify CLI, Shopify APIs
 - **Tools & Platforms:** Git, GitHub, VS Code, Figma, Firebase
 - **Database:** MongoDB (Basics), MySQL (Basics)
