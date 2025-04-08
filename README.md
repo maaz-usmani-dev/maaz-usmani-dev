@@ -23,10 +23,3 @@ I'm a passionate Web Developer focused on building high-quality web applications
 ## 🔹 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/maaz--usmani/)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maaz-usmani-dev&show_icons=true&theme=default" alt="Maaz's GitHub Stats" />
-</p>
-
----
