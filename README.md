@@ -21,5 +21,5 @@ I'm a passionate Web Developer focused on building high-quality web applications
 - Deliver custom, high-performance Shopify stores
 
 ## 🔹 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/maaz--usmani/)
+- [LinkedIn](https://www.linkedin.com/in/usmani-maaz/)
 
