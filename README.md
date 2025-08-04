@@ -42,10 +42,24 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maaz-usmani-dev&show_icons=true&theme=dark&hide_border=true&border_radius=10&card_width=400" alt="Maaz's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-usmani-dev&layout=compact&theme=dark&hide_border=true&border_radius=10&card_width=400" alt="Maaz's Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=maaz-usmani-dev&show_icons=true&theme=dark&hide_border=true&border_radius=10&card_width=400" 
+          alt="Maaz's GitHub Stats" 
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-usmani-dev&layout=compact&theme=dark&hide_border=true&border_radius=10&card_width=400" 
+          alt="Maaz's Top Languages" 
+        />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 ---
