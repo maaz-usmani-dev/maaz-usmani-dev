@@ -1,25 +1,55 @@
-# Hi, I'm Maaz 👋
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Maaz+Usmani;Full+Stack+Developer+%7C+Shopify+Architect;CS+Enthusiast+%7C+React+%26+Redux+Lover" alt="Typing animation" />
+</p>
 
-I'm a passionate Web Developer focused on building high-quality web applications, e-commerce stores, and sharing knowledge through digital content.
 
-## 🔹 About Me
-- 🌐 Specializing in **Frontend Development** (React, Redux, JavaScript) and **Shopify Theme Development**
-- 🛠️ Skilled in **Custom Shopify Development** using **Liquid**
-- 📚 Currently learning **Data Structures and Algorithms (DSA)** and **System Design**
-- 🎯 Committed to continuous learning, open-source contributions, and freelance excellence
+---
 
-## 🔹 Technical Skills
-- **Languages:** HTML5, CSS3, JavaScript (ES6+), C++, Python (Basics), Liquid
-- **Frameworks/Libraries:** React, Redux Toolkit, Node.js (Basics), Express.js (Basics), TailwindCSS, GSAP
-- **E-commerce:** Shopify Theme Development, Shopify CLI, Shopify APIs
-- **Tools & Platforms:** Git, GitHub, VS Code, Figma, Firebase
-- **Database:** MongoDB (Basics), MySQL (Basics)
+### 👨‍💻 About Me
 
-## 🔹 Current Goals
-- Master advanced concepts in React and Next.js
-- Build scalable full-stack applications using MERN Stack
-- Deliver custom, high-performance Shopify stores
+- 🔭 Currently building **React-based web apps** and exploring real-world projects  
+- 🌱 Learning **Backend Development** with **Node.js**, **APIs**, and **Databases**  
+- 💬 Ask me anything about **JavaScript**, **React**, or **Frontend Development**  
+- 📫 Reach out: [maaziftikhar1510@gmail.com](mailto:maaziftikhar1510@gmail.com)  
+- 🌐 Portfolio: [maaz-usmani-dev.vercel.app](https://www.maaz-usmani-dev.vercel.app)  
+- ⚡ Fun fact: I started from scratch, but now I’m confidently crafting code — and I’m just getting started 🚀  
 
-## 🔹 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/usmani-maaz/)
+---
 
+### 🌐 Connect with Me
+
+<p align="center" id="badges">
+  <a href="https://github.com/maaz-usmani-dev">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/usmani-maaz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.maaz-usmani-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,c,cpp,py,git&perline=8)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maaz-usmani-dev&show_icons=true&theme=dark&hide_border=true&border_radius=10&card_width=400" alt="Maaz's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-usmani-dev&layout=compact&theme=dark&hide_border=true&border_radius=10&card_width=400" alt="Maaz's Top Languages" />
+</div>
+
+
+---
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/maaz-usmani-dev">maaz-usmani-dev</a>
+</p>
