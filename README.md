@@ -12,7 +12,7 @@
 - 🌱 Learning **Backend Development** with **Node.js**, **APIs**, and **Databases**  
 - 💬 Ask me anything about **JavaScript**, **React**, or **Frontend Development**  
 - 📫 Reach out: [maaziftikhar1510@gmail.com](mailto:maaziftikhar1510@gmail.com)  
-- 🌐 Portfolio: [maaz-usmani-dev.vercel.app](https://www.maaz-usmani-dev.vercel.app)  
+- 🌐 Portfolio: [maaz-usmani-dev.vercel.app](https://maaz-usmani-dev.vercel.app)  
 - ⚡ Fun fact: I started from scratch, but now I’m confidently crafting code — and I’m just getting started 🚀  
 
 ---
