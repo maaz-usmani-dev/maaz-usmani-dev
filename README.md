@@ -35,7 +35,7 @@
 
 ### 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,c,cpp,py,git&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,git,nodejs,express,mongodb,mysql,c,cpp,py&perline=7)](https://skillicons.dev)
 
 ---
 
