@@ -1,41 +1,53 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Maaz+Usmani;Full+Stack+Developer+%7C+Shopify+Architect;CS+Enthusiast+%7C+React+%26+Redux+Lover" alt="Typing animation" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋%2C+I'm+Maaz+Usmani;Full+Stack+Developer+%7C+Shopify+Theme+Architect;JavaScript+%7C+React+%7C+Scalable+Web+Solutions" 
+    alt="Typing animation" 
+  />
 </p>
-
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building **React-based web apps** and exploring real-world projects  
-- 🌱 Learning **Backend Development** with **Node.js**, **APIs**, and **Databases**  
-- 💬 Ask me anything about **JavaScript**, **React**, or **Frontend Development**  
-- 📫 Reach out: [maaziftikhar1510@gmail.com](mailto:maaziftikhar1510@gmail.com)  
-- 🌐 Portfolio: [maaz-usmani-dev.vercel.app](https://maaz-usmani-dev.vercel.app)  
-- ⚡ Fun fact: I started from scratch, but now I’m confidently crafting code — and I’m just getting started 🚀  
+I’m a **Full Stack Developer** with a strong focus on **JavaScript ecosystems**, **React**, and **Shopify theme development**.  
+I enjoy building **clean, scalable, and performance-focused web applications** that solve real business problems.
+
+- 🔭 Building **production-grade React apps** & **custom Shopify themes**
+- 🌱 Deepening backend skills with **Node.js**, **REST APIs**, and **Databases**
+- 🧠 Strong fundamentals in **JavaScript**, **State Management**, and **System Thinking**
+- 💬 Ask me about **Frontend Architecture**, **React**, or **Shopify**
+- 🌐 Portfolio: [maaz-usmani-dev.vercel.app](https://maaz-usmani-dev.vercel.app)
+- ⚡ Fun fact: `[] == ![]` is `true` — JavaScript never disappoints
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me
 
-<p align="center" id="badges">
+<p align="center">
   <a href="https://github.com/maaz-usmani-dev">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/usmani-maaz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/maaz-usmani-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.maaz-usmani-dev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  <a href="https://maaz-usmani-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,git,nodejs,express,mongodb,mysql,c,cpp,py&perline=7)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,git,c,cpp,py&perline=7" 
+      alt="Tech Stack" 
+    />
+  </a>
+</p>
 
 ---
 
@@ -47,23 +59,19 @@
       <td>
         <img 
           src="https://github-readme-stats.vercel.app/api?username=maaz-usmani-dev&show_icons=true&theme=dark&hide_border=true&border_radius=10&card_width=400" 
-          alt="Maaz's GitHub Stats" 
         />
       </td>
       <td>
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-usmani-dev&layout=compact&theme=dark&hide_border=true&border_radius=10&card_width=400" 
-          alt="Maaz's Top Languages" 
         />
       </td>
     </tr>
   </table>
 </div>
 
-
-
 ---
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/maaz-usmani-dev">maaz-usmani-dev</a>
+  ⭐️ Built with passion by <a href="https://github.com/maaz-usmani-dev"><strong>Maaz Usmani</strong></a>
 </p>
