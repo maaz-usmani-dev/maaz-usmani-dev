@@ -63,7 +63,7 @@ I enjoy building **clean, scalable, and performance-focused web applications** t
       </td>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-usmani-dev&layout=compact&theme=dark&hide_border=true&border_radius=10&card_width=400" 
+          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaz-usmani-dev&layout=compact&theme=dark&hide_border=true&border_radius=10&card_width=400" 
         />
       </td>
     </tr>
